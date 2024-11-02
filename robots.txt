@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ezojeilo.github.io/QSk/sitemap_index.txt
+Sitemap: https://ezojeilo.github.io/RlL/sitemap_index.txt
+Sitemap: https://ezojeilo.github.io/WIZ/sitemap_index.txt
+Sitemap: https://ezojeilo.github.io/ilY/sitemap_index.txt
